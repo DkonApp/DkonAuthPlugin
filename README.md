@@ -1,0 +1,2 @@
+# DkonAuthPlugin
+Minecraft AuthPlugin
