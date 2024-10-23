@@ -1,0 +1,11 @@
+name: DkonAuthPlugin
+version: 1.0
+main: app.Dkon.Auth.DkonAuthPlugin
+api-version: 1.16
+commands:
+  register:
+    description: Регистрация нового пользователя
+    usage: /register <логин> <пароль>
+  login:
+    description: Авторизация существующего пользователя
+    usage: /login <пароль>
